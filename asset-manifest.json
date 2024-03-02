@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/finance_react_app/static/css/main.77e1b175.css",
-    "main.js": "/finance_react_app/static/js/main.1d24919c.js",
-    "static/media/laptop.jpg": "/finance_react_app/static/media/laptop.45ddf500e572fb2f1d35.jpg",
-    "static/media/single.png": "/finance_react_app/static/media/single.20196aa3e7e7fa48f8f7.png",
-    "static/media/double.png": "/finance_react_app/static/media/double.8be045e6bb88be63d414.png",
-    "static/media/triple.png": "/finance_react_app/static/media/triple.4eb8f19f4b4647321484.png",
-    "index.html": "/finance_react_app/index.html",
-    "main.77e1b175.css.map": "/finance_react_app/static/css/main.77e1b175.css.map",
-    "main.1d24919c.js.map": "/finance_react_app/static/js/main.1d24919c.js.map"
+    "main.css": "/finance-app/static/css/main.77e1b175.css",
+    "main.js": "/finance-app/static/js/main.016c127c.js",
+    "static/media/laptop.jpg": "/finance-app/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/finance-app/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/finance-app/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/finance-app/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/finance-app/index.html",
+    "main.77e1b175.css.map": "/finance-app/static/css/main.77e1b175.css.map",
+    "main.016c127c.js.map": "/finance-app/static/js/main.016c127c.js.map"
   },
   "entrypoints": [
     "static/css/main.77e1b175.css",
-    "static/js/main.1d24919c.js"
+    "static/js/main.016c127c.js"
   ]
 }
